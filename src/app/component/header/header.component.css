@@ -6,7 +6,10 @@
 .search{
     position:absolute;
     z-index: 10;
-    right: 44%;
+    right: 40%;
     top: 20px;
     color: #035397;
+}
+.navbar{
+padding-left: 30px;
 }
